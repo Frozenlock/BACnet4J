@@ -1,3 +1,6 @@
+*Version 3.2.4-alt*
+* Alternative version with some custom tweaks*
+
 *Version 3.2.4*
 * Fixing bug in SerialPortWrapper where stop bits and data bits were reversed.
 
