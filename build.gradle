@@ -13,11 +13,11 @@ repositories {
 }
 
 dependencies {
-    compile 'ai.serotonin.oss:sero-scheduler:[1.1.0,2)'
+    compile 'ai.serotonin.oss:sero-scheduler:1.1.0'
     compile 'ai.serotonin.oss:sero-warp:1.0.0'
     compile 'org.apache.commons:commons-lang3:3.5'
     compile 'org.scream3r:jssc:2.8.0'
-    compile 'org.slf4j:slf4j-api:[1.7.0,1.8)'
+    compile 'org.slf4j:slf4j-api:1.7.26'
     
     testCompile 'junit:junit:4.12'
     testCompile 'org.mockito:mockito-core:[2.7.22,3)'
